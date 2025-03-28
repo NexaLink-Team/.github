@@ -11,7 +11,11 @@ Welcome to **NexaLink**! We are a team specializing in **smart NFC solutions** t
 - **Backend:** Django, Python  
 - **Frontend:** HTML, Bootstrap, JavaScript  
 - **Mobile:** Flutter, Dart
-- **Database:** PostgreSQL  
+- **Database:** PostgreSQL
+
+![Django](https://img.shields.io/badge/Backend-Django-blue)
+![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-yellow)
+![Flutter](https://img.shields.io/badge/Mobile-Flutter-blue)
 
 
 ## 🤝 Join Our Team  
